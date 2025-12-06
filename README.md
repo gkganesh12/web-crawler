@@ -1,4 +1,4 @@
-# 🚀 HackVeda Crawler - Complete Web Scraping & Email Marketing Tool
+# 🚀 Complete Web Scraping & Email Marketing Tool
 
 A production-ready Python application for digital marketing that crawls Google search results and sends beautiful HTML email reports. Features a modern web dashboard, CLI interface, and professional email templates with sender identification.
 
